@@ -67,4 +67,4 @@ read appln
 ps -ux|grep $appln |cut -d -f2 -n |kill -9;;
 8)clear
 exit 0;;
-ease
+esac
