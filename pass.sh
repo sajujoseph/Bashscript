@@ -1,4 +1,4 @@
-#Test.sh
+#pass.sh
 #=======
 
 #!/bin/bash
