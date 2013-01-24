@@ -1,0 +1,9 @@
+#How to Run
+
+change the permission to 755
+#chmod 755 pass.sh
+then
+#sh pass.sh
+
+or 
+#./pass.sh
